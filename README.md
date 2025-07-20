@@ -12,7 +12,7 @@ A simple, clean **image gallery project** to practice front-end skills.
 
 ## 🚀 Live Demo
 
-**Coming Soon**
+https://pradipd1.github.io/Image-galary/
 
 ---
 
@@ -26,7 +26,7 @@ A simple, clean **image gallery project** to practice front-end skills.
 
 ## 🌐 Deployment
 
-You can deploy this project easily on **Vercel**, **Netlify**, or **GitHub Pages** to make it live.
+https://pradipd1.github.io/Image-galary/
 
 
 
