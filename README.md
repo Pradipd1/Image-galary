@@ -2,7 +2,7 @@
 
 A simple, clean **image gallery project** to practice front-end skills.
 
----
+--- 
 
 ## ✨ Features
 
@@ -33,4 +33,4 @@ https://pradipd1.github.io/Image-galary/
 
 MIT
 
-
+`under work`
