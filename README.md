@@ -8,7 +8,7 @@ A simple, clean **image gallery project** to practice front-end skills.
 
 - Responsive image grid
 - Clean and beginner-friendly code
-
+ 
 
 ## 🚀 Live Demo
 
