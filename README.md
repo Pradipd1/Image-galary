@@ -7,7 +7,7 @@ A simple, clean **image gallery project** to practice front-end skills.
 ## ✨ Features
 
 - Responsive image grid
-- Clean and beginner-friendly code
+- Clean and beginner-friendly code 
  
 
 ## 🚀 Live Demo
